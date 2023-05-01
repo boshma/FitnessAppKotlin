@@ -5,7 +5,7 @@
 Bogdan Shmat
 ∗ What the app is supposed to do (all functionalities implimented) (Responsiveness implimented using scroll and constraints)
 User can add and delete meals 
-User can add new exercises to the exercise selection list that is shared with all user's using that device. 
+User can add new exercises to the exercise selection list that is shared with all users using that device. 
 User can add and delete workouts
 User can register/login
 User can change the date and load the appropriate dashboard/logs
