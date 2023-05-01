@@ -18,3 +18,8 @@ No
 No
 ∗ How to build / deploy your app for testing, if anything special is required
 Nothing Special required.
+
+
+
+NOTE:
+Pixel 6 API 33 causes key index error 
