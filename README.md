@@ -23,3 +23,5 @@ Nothing Special required.
 
 NOTE:
 Pixel 6 API 33 causes key index error 
+
+The pro version does not.
