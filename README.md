@@ -4,8 +4,8 @@
 ∗ Who was involved in the project
 Bogdan Shmat
 ∗ What the app is supposed to do (all functionalities implimented) (Responsiveness implimented using scroll and constraints)
-User can add and delete meals
-User can add new exercises to the dropdown menu in AddworkoutActivity
+User can add and delete meals \n
+User can add new exercises to the dropdown menu in AddworkoutActivity \n
 User can add and delete workouts
 User can register/login
 User can change the date and load the appropriate dashboard/logs
